@@ -1,4 +1,4 @@
-##🧠 Random Advice Generator (React + useEffect + API)
+## 🧠 Random Advice Generator (React + useEffect + API)
 This is a simple React project that fetches and displays random advice using the Advice Slip API. It demonstrates the usage of useEffect, useState, and basic API integration in React.
 
 🚀 Features
