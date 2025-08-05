@@ -15,12 +15,12 @@ This is a simple React project that fetches and displays random advice using the
 
 **📂 Folder Structure**
 📦advice-generator
- ┣ 📄 App.js
- ┣ 📄 App.css
- ┣ 📄 index.js
- ┗ 📄 package.json
+ - 📄 App.js
+ - 📄 App.css
+ - 📄 index.js
+ - 📄 package.json
 
 **🧩 Key Concepts Used**
-*useEffect() to fetch advice on component mount.
-*useState() to store and display fetched advice.
-*Fetch API to interact with external service.
+* useEffect() to fetch advice on component mount.
+* useState() to store and display fetched advice.
+* Fetch API to interact with external service.
