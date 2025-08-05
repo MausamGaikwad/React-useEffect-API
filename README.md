@@ -14,7 +14,7 @@ This is a simple React project that fetches and displays random advice using the
 + CSS
 
 **📂 Folder Structure**
-📦advice-generator
++ 📦advice-generator
  - 📄 App.js
  - 📄 App.css
  - 📄 index.js
