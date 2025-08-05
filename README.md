@@ -1,12 +1,34 @@
-# React + Vite
+##🧠 Random Advice Generator (React + useEffect + API)
+This is a simple React project that fetches and displays random advice using the Advice Slip API. It demonstrates the usage of useEffect, useState, and basic API integration in React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+Fetches random advice from an API.
 
-Currently, two official plugins are available:
+Automatically loads one advice on page load.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Button to fetch new advice.
 
-## Expanding the ESLint configuration
+Styled with basic CSS for clean UI.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+React
+
+useState & useEffect Hooks
+
+Advice Slip Public API
+
+CSS
+
+📂 Folder Structure
+📦advice-generator
+ ┣ 📄 App.js
+ ┣ 📄 App.css
+ ┣ 📄 index.js
+ ┗ 📄 package.json
+
+🧩 Key Concepts Used
+useEffect() to fetch advice on component mount.
+
+useState() to store and display fetched advice.
+
+Fetch API to interact with external service.
